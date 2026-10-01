@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-The walkthrough loads the ground-floor-only sales-quality export at `public/models/ground-floor.glb` (about 34.6 MB). It was exported from the reviewed Blender scene with evaluated mesh modifiers so bevels and added details remain visible in the browser. The source Blender scene and repeatable build/export scripts are in the workspace root; see `../GROUND_FLOOR_SALES_QUALITY.md` for asset licenses and model assumptions. The viewer uses four-sample post-process multisampling to reduce edge aliasing.
+The walkthrough stacks the ground floor, first floor and roof terrace, with individual floor inspection and continuous stair navigation. The current web assets include restored exterior walls and one shared stair system. Room/service door leaves are temporarily hidden through `HIDE_ROOM_DOORS` in `src/lib/modelVisibility.ts`. See [DOOR_AND_STAIR_REVIEW.md](DOOR_AND_STAIR_REVIEW.md) and [ENCLOSURE_AND_CAMERA_REVIEW.md](ENCLOSURE_AND_CAMERA_REVIEW.md) for corrections and validation. Source Blender scenes and rollback assets remain in the local modeling workspace. The viewer uses four-sample post-process multisampling to reduce edge aliasing.
 
 ## Getting Started
 

@@ -1,0 +1,811 @@
+{
+  "source": "roof_source.png",
+  "source_size_px": [
+    1285,
+    1755
+  ],
+  "registration": {
+    "m_per_px": 0.0075,
+    "anchor_px": [
+      1245,
+      30
+    ],
+    "anchor_world_xy": [
+      5.2573066,
+      5.9722459
+    ],
+    "deck_z": 5.8,
+    "finish_z": 5.84,
+    "floor_to_floor_rise": 2.9,
+    "method": "Uniform scale from east stair enclosure width; east and north edges registered to native first-floor x1425,y95. Roof stair enclosure is shorter in the marketing plan; no nonuniform distortion applied."
+  },
+  "footprint": [
+    [
+      62,
+      18
+    ],
+    [
+      294,
+      18
+    ],
+    [
+      294,
+      60
+    ],
+    [
+      733,
+      60
+    ],
+    [
+      733,
+      20
+    ],
+    [
+      922,
+      20
+    ],
+    [
+      922,
+      13
+    ],
+    [
+      1245,
+      13
+    ],
+    [
+      1245,
+      1660
+    ],
+    [
+      1227,
+      1671
+    ],
+    [
+      750,
+      1671
+    ],
+    [
+      750,
+      1701
+    ],
+    [
+      550,
+      1724
+    ],
+    [
+      534,
+      1705
+    ],
+    [
+      534,
+      1410
+    ],
+    [
+      294,
+      1410
+    ],
+    [
+      294,
+      1644
+    ],
+    [
+      62,
+      1644
+    ],
+    [
+      62,
+      1275
+    ],
+    [
+      44,
+      1275
+    ],
+    [
+      44,
+      344
+    ],
+    [
+      62,
+      344
+    ]
+  ],
+  "zones": {
+    "white_paved_strip": [
+      [
+        80,
+        43
+      ],
+      [
+        275,
+        43
+      ],
+      [
+        275,
+        342
+      ],
+      [
+        177,
+        342
+      ],
+      [
+        177,
+        1410
+      ],
+      [
+        275,
+        1410
+      ],
+      [
+        275,
+        1623
+      ],
+      [
+        80,
+        1623
+      ]
+    ],
+    "main_oak_deck": [
+      [
+        294,
+        155
+      ],
+      [
+        727,
+        155
+      ],
+      [
+        727,
+        440
+      ],
+      [
+        929,
+        440
+      ],
+      [
+        929,
+        647
+      ],
+      [
+        1204,
+        647
+      ],
+      [
+        1204,
+        1127
+      ],
+      [
+        1120,
+        1127
+      ],
+      [
+        1120,
+        1136
+      ],
+      [
+        294,
+        1136
+      ]
+    ],
+    "lower_cross_deck": [
+      [
+        294,
+        1136
+      ],
+      [
+        1120,
+        1136
+      ],
+      [
+        1120,
+        1588
+      ],
+      [
+        558,
+        1588
+      ],
+      [
+        558,
+        1405
+      ],
+      [
+        294,
+        1405
+      ]
+    ],
+    "stair_entry_deck": [
+      [
+        940,
+        446
+      ],
+      [
+        1215,
+        446
+      ],
+      [
+        1215,
+        635
+      ],
+      [
+        940,
+        635
+      ]
+    ],
+    "west_planter": [
+      [
+        184,
+        362
+      ],
+      [
+        275,
+        362
+      ],
+      [
+        275,
+        1387
+      ],
+      [
+        184,
+        1387
+      ]
+    ],
+    "north_planter": [
+      [
+        295,
+        77
+      ],
+      [
+        722,
+        77
+      ],
+      [
+        722,
+        150
+      ],
+      [
+        295,
+        150
+      ]
+    ],
+    "east_planter": [
+      [
+        1126,
+        1128
+      ],
+      [
+        1205,
+        1128
+      ],
+      [
+        1205,
+        1587
+      ],
+      [
+        1126,
+        1587
+      ]
+    ],
+    "south_planter": [
+      [
+        558,
+        1598
+      ],
+      [
+        1205,
+        1598
+      ],
+      [
+        1205,
+        1667
+      ],
+      [
+        750,
+        1667
+      ],
+      [
+        750,
+        1694
+      ],
+      [
+        558,
+        1710
+      ]
+    ],
+    "ribbed_core_cover": [
+      [
+        741,
+        34
+      ],
+      [
+        916,
+        34
+      ],
+      [
+        916,
+        426
+      ],
+      [
+        741,
+        426
+      ]
+    ],
+    "stair_opening": [
+      [
+        950,
+        122
+      ],
+      [
+        1210,
+        122
+      ],
+      [
+        1210,
+        438
+      ],
+      [
+        950,
+        438
+      ]
+    ]
+  },
+  "boundaries": [
+    {
+      "name": "West outer parapet",
+      "a": [
+        63,
+        28
+      ],
+      "b": [
+        63,
+        1633
+      ]
+    },
+    {
+      "name": "North paved return",
+      "a": [
+        63,
+        28
+      ],
+      "b": [
+        284,
+        28
+      ]
+    },
+    {
+      "name": "North paved east return",
+      "a": [
+        284,
+        28
+      ],
+      "b": [
+        284,
+        349
+      ]
+    },
+    {
+      "name": "West planter south return",
+      "a": [
+        63,
+        1633
+      ],
+      "b": [
+        284,
+        1633
+      ]
+    },
+    {
+      "name": "Lower paved east return",
+      "a": [
+        284,
+        1410
+      ],
+      "b": [
+        284,
+        1633
+      ]
+    },
+    {
+      "name": "North terrace parapet",
+      "a": [
+        294,
+        65
+      ],
+      "b": [
+        731,
+        65
+      ]
+    },
+    {
+      "name": "South terrace parapet",
+      "a": [
+        551,
+        1685
+      ],
+      "b": [
+        1234,
+        1685
+      ]
+    },
+    {
+      "name": "Lower west terrace parapet",
+      "a": [
+        546,
+        1410
+      ],
+      "b": [
+        546,
+        1694
+      ]
+    },
+    {
+      "name": "South notch return",
+      "a": [
+        294,
+        1405
+      ],
+      "b": [
+        546,
+        1405
+      ]
+    },
+    {
+      "name": "Stair enclosure north",
+      "a": [
+        927,
+        24
+      ],
+      "b": [
+        1240,
+        24
+      ]
+    },
+    {
+      "name": "Stair enclosure west",
+      "a": [
+        927,
+        24
+      ],
+      "b": [
+        927,
+        438
+      ]
+    }
+  ],
+  "glazing": [
+    {
+      "name": "East terrace guard",
+      "a": [
+        1235,
+        642
+      ],
+      "b": [
+        1235,
+        1657
+      ],
+      "height": 1.1
+    },
+    {
+      "name": "Stair east glass",
+      "a": [
+        1235,
+        33
+      ],
+      "b": [
+        1235,
+        640
+      ],
+      "height": 2.3
+    },
+    {
+      "name": "Stair south glass left",
+      "a": [
+        935,
+        647
+      ],
+      "b": [
+        1025,
+        647
+      ],
+      "height": 2.3
+    },
+    {
+      "name": "Stair south glass right",
+      "a": [
+        1108,
+        647
+      ],
+      "b": [
+        1235,
+        647
+      ],
+      "height": 2.3
+    },
+    {
+      "name": "Stair west entry glass",
+      "a": [
+        930,
+        445
+      ],
+      "b": [
+        930,
+        638
+      ],
+      "height": 2.3
+    }
+  ],
+  "furniture": {
+    "upper_rug": [
+      330,
+      191,
+      664,
+      483
+    ],
+    "upper_sofa": [
+      304,
+      228,
+      414,
+      463
+    ],
+    "upper_table": [
+      420,
+      265,
+      552,
+      402
+    ],
+    "upper_chair_1": [
+      570,
+      170,
+      701,
+      306
+    ],
+    "upper_chair_2": [
+      555,
+      377,
+      685,
+      505
+    ],
+    "central_rug": [
+      466,
+      709,
+      716,
+      970
+    ],
+    "central_table": [
+      468,
+      803,
+      657,
+      915
+    ],
+    "central_west_sofa": [
+      305,
+      697,
+      407,
+      1111
+    ],
+    "central_south_sofa": [
+      407,
+      1001,
+      707,
+      1111
+    ],
+    "central_north_sofa": [
+      446,
+      594,
+      674,
+      692
+    ],
+    "kitchen_counter": [
+      1138,
+      650,
+      1210,
+      1124
+    ],
+    "kitchen_island": [
+      891,
+      747,
+      1004,
+      1034
+    ],
+    "terrace_chair_1": [
+      305,
+      1168,
+      422,
+      1306
+    ],
+    "terrace_chair_2": [
+      555,
+      1179,
+      679,
+      1320
+    ],
+    "terrace_round_table": [
+      457,
+      1197,
+      530,
+      1270
+    ],
+    "sun_lounger": [
+      567,
+      1438,
+      791,
+      1549
+    ],
+    "hot_tub": [
+      832,
+      1286,
+      1095,
+      1548
+    ]
+  },
+  "stools": [
+    [
+      869,
+      793
+    ],
+    [
+      869,
+      882
+    ],
+    [
+      869,
+      979
+    ]
+  ],
+  "fixtures": {
+    "double_sink": [
+      1149,
+      809,
+      1197,
+      891
+    ],
+    "cooktop": [
+      1148,
+      958,
+      1198,
+      1058
+    ],
+    "white_utility_object": [
+      1040,
+      1039,
+      1105,
+      1105
+    ]
+  },
+  "shrubs": [
+    [
+      230,
+      413
+    ],
+    [
+      230,
+      514
+    ],
+    [
+      230,
+      621
+    ],
+    [
+      230,
+      728
+    ],
+    [
+      230,
+      840
+    ],
+    [
+      230,
+      945
+    ],
+    [
+      230,
+      1050
+    ],
+    [
+      230,
+      1157
+    ],
+    [
+      230,
+      1264
+    ],
+    [
+      230,
+      1342
+    ],
+    [
+      334,
+      117
+    ],
+    [
+      390,
+      117
+    ],
+    [
+      449,
+      117
+    ],
+    [
+      507,
+      117
+    ],
+    [
+      566,
+      117
+    ],
+    [
+      624,
+      117
+    ],
+    [
+      683,
+      117
+    ],
+    [
+      603,
+      1634
+    ],
+    [
+      688,
+      1634
+    ],
+    [
+      777,
+      1634
+    ],
+    [
+      867,
+      1634
+    ],
+    [
+      956,
+      1634
+    ],
+    [
+      1048,
+      1634
+    ],
+    [
+      1150,
+      1634
+    ],
+    [
+      588,
+      1678
+    ],
+    [
+      686,
+      1685
+    ]
+  ],
+  "tropical_plants": [
+    [
+      1165,
+      1169
+    ],
+    [
+      1165,
+      1240
+    ],
+    [
+      1165,
+      1313
+    ],
+    [
+      1165,
+      1388
+    ],
+    [
+      1165,
+      1465
+    ],
+    [
+      1165,
+      1540
+    ]
+  ],
+  "ambiguities": [
+    "Pale ribbed rectangle west of stair is represented as a framed core cover, without inventing an additional room.",
+    "Small white object beside the kitchen is modeled as an oval utility stool/bin; its function is not identifiable.",
+    "Stair descent, rail heights, parapet heights, glazing heights and water depth are estimated.",
+    "Roof enclosure north/east boundaries register to first floor; its shorter north-south span is retained."
+  ]
+}

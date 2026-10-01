@@ -1,0 +1,908 @@
+{
+  "source": "first_floor_marketing.png",
+  "source_size_px": [
+    1500,
+    2000
+  ],
+  "authority": "latest first-floor rendered marketing plan",
+  "physical_dimensions": "estimated; no scale bar or elevations in source",
+  "footprint": [
+    [
+      70,
+      300
+    ],
+    [
+      130,
+      300
+    ],
+    [
+      130,
+      155
+    ],
+    [
+      620,
+      155
+    ],
+    [
+      620,
+      95
+    ],
+    [
+      870,
+      95
+    ],
+    [
+      870,
+      120
+    ],
+    [
+      1075,
+      120
+    ],
+    [
+      1075,
+      20
+    ],
+    [
+      1115,
+      20
+    ],
+    [
+      1140,
+      95
+    ],
+    [
+      1425,
+      95
+    ],
+    [
+      1425,
+      1930
+    ],
+    [
+      1370,
+      1930
+    ],
+    [
+      1370,
+      1955
+    ],
+    [
+      915,
+      1955
+    ],
+    [
+      850,
+      1925
+    ],
+    [
+      850,
+      1690
+    ],
+    [
+      70,
+      1690
+    ]
+  ],
+  "zones": {
+    "upper_balcony": [
+      [
+        130,
+        155
+      ],
+      [
+        620,
+        155
+      ],
+      [
+        620,
+        300
+      ],
+      [
+        130,
+        300
+      ]
+    ],
+    "bedroom_1_oak": [
+      [
+        95,
+        355
+      ],
+      [
+        625,
+        355
+      ],
+      [
+        625,
+        850
+      ],
+      [
+        95,
+        850
+      ]
+    ],
+    "upper_bath_tile": [
+      [
+        645,
+        255
+      ],
+      [
+        850,
+        255
+      ],
+      [
+        850,
+        480
+      ],
+      [
+        645,
+        480
+      ]
+    ],
+    "upper_shower": [
+      [
+        645,
+        110
+      ],
+      [
+        850,
+        110
+      ],
+      [
+        850,
+        255
+      ],
+      [
+        645,
+        255
+      ]
+    ],
+    "upper_closet_oak": [
+      [
+        645,
+        490
+      ],
+      [
+        850,
+        490
+      ],
+      [
+        850,
+        725
+      ],
+      [
+        645,
+        725
+      ]
+    ],
+    "stair_left": [
+      [
+        875,
+        120
+      ],
+      [
+        1080,
+        120
+      ],
+      [
+        1080,
+        565
+      ],
+      [
+        875,
+        565
+      ]
+    ],
+    "stair_right": [
+      [
+        1100,
+        115
+      ],
+      [
+        1395,
+        115
+      ],
+      [
+        1395,
+        565
+      ],
+      [
+        1100,
+        565
+      ]
+    ],
+    "light_well": [
+      [
+        875,
+        570
+      ],
+      [
+        1085,
+        570
+      ],
+      [
+        1085,
+        730
+      ],
+      [
+        875,
+        730
+      ]
+    ],
+    "landing_oak": [
+      [
+        875,
+        735
+      ],
+      [
+        1400,
+        735
+      ],
+      [
+        1400,
+        1015
+      ],
+      [
+        875,
+        1015
+      ]
+    ],
+    "landing_upper_oak": [
+      [
+        1090,
+        570
+      ],
+      [
+        1400,
+        570
+      ],
+      [
+        1400,
+        735
+      ],
+      [
+        1090,
+        735
+      ]
+    ],
+    "upper_door_hall_oak": [
+      [
+        625,
+        730
+      ],
+      [
+        875,
+        730
+      ],
+      [
+        875,
+        850
+      ],
+      [
+        625,
+        850
+      ]
+    ],
+    "family_bath_tile": [
+      [
+        245,
+        875
+      ],
+      [
+        585,
+        875
+      ],
+      [
+        585,
+        1110
+      ],
+      [
+        245,
+        1110
+      ]
+    ],
+    "family_shower": [
+      [
+        95,
+        875
+      ],
+      [
+        235,
+        875
+      ],
+      [
+        235,
+        1110
+      ],
+      [
+        95,
+        1110
+      ]
+    ],
+    "dressing_oak": [
+      [
+        600,
+        945
+      ],
+      [
+        850,
+        945
+      ],
+      [
+        850,
+        1110
+      ],
+      [
+        600,
+        1110
+      ]
+    ],
+    "bedroom_2_oak": [
+      [
+        95,
+        1120
+      ],
+      [
+        850,
+        1120
+      ],
+      [
+        850,
+        1675
+      ],
+      [
+        95,
+        1675
+      ]
+    ],
+    "central_hall_oak": [
+      [
+        865,
+        1015
+      ],
+      [
+        1020,
+        1015
+      ],
+      [
+        1020,
+        1435
+      ],
+      [
+        865,
+        1435
+      ]
+    ],
+    "ensuite_entry_oak": [
+      [
+        1020,
+        1015
+      ],
+      [
+        1400,
+        1015
+      ],
+      [
+        1400,
+        1120
+      ],
+      [
+        1020,
+        1120
+      ]
+    ],
+    "ensuite_tile": [
+      [
+        1030,
+        1120
+      ],
+      [
+        1400,
+        1120
+      ],
+      [
+        1400,
+        1435
+      ],
+      [
+        1030,
+        1435
+      ]
+    ],
+    "bedroom_3_oak": [
+      [
+        865,
+        1445
+      ],
+      [
+        1400,
+        1445
+      ],
+      [
+        1400,
+        1900
+      ],
+      [
+        865,
+        1900
+      ]
+    ]
+  },
+  "furniture": {
+    "bedroom_1_bed": {
+      "bbox": [
+        105,
+        515,
+        355,
+        745
+      ],
+      "headboard": "west"
+    },
+    "bedroom_1_rug": {
+      "bbox": [
+        250,
+        475,
+        405,
+        780
+      ]
+    },
+    "bedroom_1_cabinet": {
+      "bbox": [
+        565,
+        475,
+        620,
+        700
+      ]
+    },
+    "bedroom_2_bed": {
+      "bbox": [
+        100,
+        1250,
+        350,
+        1455
+      ],
+      "headboard": "west"
+    },
+    "bedroom_2_rug": {
+      "bbox": [
+        280,
+        1205,
+        565,
+        1540
+      ]
+    },
+    "bedroom_2_cabinet": {
+      "bbox": [
+        790,
+        1285,
+        850,
+        1660
+      ]
+    },
+    "bedroom_3_bed": {
+      "bbox": [
+        1140,
+        1570,
+        1395,
+        1780
+      ],
+      "headboard": "east"
+    },
+    "bedroom_3_rug": {
+      "bbox": [
+        1100,
+        1535,
+        1260,
+        1820
+      ]
+    },
+    "landing_chair": {
+      "bbox": [
+        1240,
+        720,
+        1400,
+        885
+      ],
+      "angle_deg": -17
+    },
+    "landing_round_table": {
+      "center": [
+        1320,
+        930
+      ],
+      "diameter_px": 82
+    }
+  },
+  "fixtures": {
+    "upper_wc": [
+      780,
+      300
+    ],
+    "upper_vanity": [
+      805,
+      405
+    ],
+    "family_double_vanity": [
+      360,
+      910
+    ],
+    "family_wc": [
+      525,
+      940
+    ],
+    "ensuite_shower": [
+      1090,
+      1230
+    ],
+    "ensuite_wc": [
+      1230,
+      1195
+    ],
+    "ensuite_vanity": [
+      1350,
+      1165
+    ]
+  },
+  "openings": {
+    "bedroom_1_entry": [
+      [
+        520,
+        850
+      ],
+      [
+        620,
+        850
+      ]
+    ],
+    "bedroom_2_entry": [
+      [
+        740,
+        1115
+      ],
+      [
+        845,
+        1115
+      ]
+    ],
+    "bedroom_3_entry": [
+      [
+        865,
+        1435
+      ],
+      [
+        955,
+        1435
+      ]
+    ],
+    "balcony_glazing": [
+      [
+        130,
+        330
+      ],
+      [
+        620,
+        330
+      ]
+    ],
+    "bedroom_2_south_glazing": [
+      [
+        260,
+        1680
+      ],
+      [
+        790,
+        1680
+      ]
+    ],
+    "bedroom_3_south_glazing": [
+      [
+        910,
+        1920
+      ],
+      [
+        1370,
+        1920
+      ]
+    ]
+  },
+  "walls": [
+    {
+      "axis": "v",
+      "name": "First floor west facade",
+      "at_px": 68.03,
+      "start_px": 300.6,
+      "end_px": 1680.75,
+      "gaps_px": []
+    },
+    {
+      "axis": "v",
+      "name": "First floor east facade",
+      "at_px": 1420.99,
+      "start_px": 94.35,
+      "end_px": 1922.11,
+      "gaps_px": []
+    },
+    {
+      "axis": "h",
+      "name": "First floor south - bedroom two",
+      "at_px": 1680.75,
+      "start_px": 68.03,
+      "end_px": 855.89,
+      "gaps_px": [
+        [
+          257.86,
+          790.05
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "First floor south - bedroom three",
+      "at_px": 1922.11,
+      "start_px": 855.89,
+      "end_px": 1420.99,
+      "gaps_px": [
+        [
+          910.75,
+          1366.13
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "First floor north - balcony glazing wall",
+      "at_px": 300.6,
+      "start_px": 68.03,
+      "end_px": 621.07,
+      "gaps_px": [
+        [
+          131.68,
+          621.07
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "First floor north bath facade",
+      "at_px": 96.54,
+      "start_px": 621.07,
+      "end_px": 866.86,
+      "gaps_px": []
+    },
+    {
+      "axis": "h",
+      "name": "First floor upper stair facade",
+      "at_px": 94.35,
+      "start_px": 1073.15,
+      "end_px": 1420.99,
+      "gaps_px": [
+        [
+          1130.21,
+          1311.27
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "Bedroom one south wall",
+      "at_px": 855.73,
+      "start_px": 68.03,
+      "end_px": 866.86,
+      "gaps_px": [
+        [
+          559.62,
+          669.35
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Upper bath west wall",
+      "at_px": 621.07,
+      "start_px": 96.54,
+      "end_px": 471.75,
+      "gaps_px": []
+    },
+    {
+      "axis": "v",
+      "name": "Upper bath east wall",
+      "at_px": 866.86,
+      "start_px": 96.54,
+      "end_px": 471.75,
+      "gaps_px": [
+        [
+          301.7,
+          400.44
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "Upper bath south wall",
+      "at_px": 471.75,
+      "start_px": 621.07,
+      "end_px": 866.86,
+      "gaps_px": [
+        [
+          713.24,
+          806.51
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Stair core west wall",
+      "at_px": 866.86,
+      "start_px": 471.75,
+      "end_px": 559.52,
+      "gaps_px": [
+        [
+          493.69,
+          548.55
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Stair core east wall",
+      "at_px": 1073.15,
+      "start_px": 94.35,
+      "end_px": 559.52,
+      "gaps_px": []
+    },
+    {
+      "axis": "h",
+      "name": "Stair core lower wall",
+      "at_px": 559.52,
+      "start_px": 866.86,
+      "end_px": 1420.99,
+      "gaps_px": [
+        [
+          1020.48,
+          1316.75
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Stair upper divider",
+      "at_px": 1073.15,
+      "start_px": 559.52,
+      "end_px": 855.73,
+      "gaps_px": []
+    },
+    {
+      "axis": "h",
+      "name": "Family bath north edge",
+      "at_px": 855.73,
+      "start_px": 68.03,
+      "end_px": 587.05,
+      "gaps_px": [
+        [
+          213.97,
+          312.73
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Family bathroom east edge",
+      "at_px": 587.05,
+      "start_px": 855.73,
+      "end_px": 1116.84,
+      "gaps_px": []
+    },
+    {
+      "axis": "h",
+      "name": "Family bath south edge",
+      "at_px": 1116.84,
+      "start_px": 68.03,
+      "end_px": 587.05,
+      "gaps_px": [
+        [
+          268.84,
+          373.08
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Bedroom two east wall",
+      "at_px": 855.89,
+      "start_px": 1116.84,
+      "end_px": 1680.75,
+      "gaps_px": [
+        [
+          1179.37,
+          1283.6
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "Bedroom two north wall",
+      "at_px": 1116.84,
+      "start_px": 587.05,
+      "end_px": 855.89,
+      "gaps_px": [
+        [
+          669.35,
+          762.62
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Central hall east edge",
+      "at_px": 1020.48,
+      "start_px": 855.73,
+      "end_px": 1445.97,
+      "gaps_px": [
+        [
+          1140.98,
+          1239.71
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "Ensuite north wall",
+      "at_px": 1020.3,
+      "start_px": 1020.48,
+      "end_px": 1420.99,
+      "gaps_px": [
+        [
+          1163.13,
+          1256.4
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "Ensuite south wall",
+      "at_px": 1445.97,
+      "start_px": 1020.48,
+      "end_px": 1420.99,
+      "gaps_px": [
+        [
+          1196.05,
+          1294.81
+        ]
+      ]
+    },
+    {
+      "axis": "v",
+      "name": "Ensuite west divider",
+      "at_px": 1020.48,
+      "start_px": 1020.3,
+      "end_px": 1445.97,
+      "gaps_px": []
+    },
+    {
+      "axis": "v",
+      "name": "Ensuite east divider",
+      "at_px": 1196.05,
+      "start_px": 1020.3,
+      "end_px": 1445.97,
+      "gaps_px": [
+        [
+          1130.01,
+          1228.74
+        ]
+      ]
+    },
+    {
+      "axis": "h",
+      "name": "Bedroom three north divider",
+      "at_px": 1445.97,
+      "start_px": 855.89,
+      "end_px": 1420.99,
+      "gaps_px": [
+        [
+          1020.48,
+          1119.24
+        ]
+      ]
+    }
+  ]
+}

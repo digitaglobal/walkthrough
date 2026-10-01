@@ -1,0 +1,136 @@
+{
+  "facade_planes": [
+    -5.491,
+    5.367
+  ],
+  "core_left": 2.651,
+  "warps": {
+    "first": {
+      "west": -4.745025,
+      "core": 2.65836,
+      "east": 5.25731
+    },
+    "roof": {
+      "west": -3.7501934,
+      "core": 2.8723066,
+      "east": 5.2573066
+    }
+  },
+  "heights": {
+    "ground": 0.18,
+    "first": 2.94,
+    "roof": 5.84
+  },
+  "eye_height": 1.75,
+  "body_radius": 0.19,
+  "opening": [
+    2.75,
+    -5.85,
+    5.22,
+    -2.9
+  ],
+  "stairs": [
+    {
+      "name": "ground-first",
+      "width": 0.9,
+      "path": [
+        [
+          3.3,
+          -1.75,
+          0.18
+        ],
+        [
+          3.3,
+          -5.38,
+          1.55
+        ],
+        [
+          4.65,
+          -5.38,
+          1.55
+        ],
+        [
+          4.65,
+          -2.95,
+          2.94
+        ],
+        [
+          3.98,
+          -2.95,
+          2.94
+        ],
+        [
+          3.98,
+          -1.75,
+          2.94
+        ]
+      ]
+    },
+    {
+      "name": "first-roof",
+      "width": 0.9,
+      "path": [
+        [
+          3.98,
+          -1.75,
+          2.94
+        ],
+        [
+          3.98,
+          -2.95,
+          2.94
+        ],
+        [
+          3.3,
+          -2.95,
+          2.94
+        ],
+        [
+          3.3,
+          -5.38,
+          4.39
+        ],
+        [
+          4.65,
+          -5.38,
+          4.39
+        ],
+        [
+          4.65,
+          -2.95,
+          5.84
+        ],
+        [
+          3.8,
+          -2.95,
+          5.84
+        ],
+        [
+          3.8,
+          -0.95,
+          5.84
+        ]
+      ]
+    }
+  ],
+  "landing_bounds": [
+    2.82,
+    -3.25,
+    5.2,
+    -2.12
+  ],
+  "ceiling_undersides": {
+    "ground": 2.78,
+    "first": 5.5
+  },
+  "ceiling_thickness": 0.08,
+  "notes": [
+    "Upper flights now ascend in the same direction at both levels to maintain stacked headroom.",
+    "The top landing turns through the existing first-floor doorway at x3.98 instead of passing through the solid wall at x4.65.",
+    "Upper architecture widens around a registered stair core. Asset assemblies translate without nonuniform scaling.",
+    "The web-only stair upper divider ends at the traced lightwell south edge (native y730), restoring access to the bedroom corridor."
+  ],
+  "first_wall_end_overrides": {
+    "Stair upper divider": 730
+  }
+}
